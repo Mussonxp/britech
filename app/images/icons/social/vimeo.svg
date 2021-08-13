@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="1418" y="5178" width="16" height="16" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#464646"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="vimeo" class="cls-1" d="M1431,5178h-10a3,3,0,0,0-3,3v10a3,3,0,0,0,3,3h10a3,3,0,0,0,3-3v-10A3,3,0,0,0,1431,5178Zm-0.25,5.82c-0.54,3.02-3.53,5.58-4.43,6.17a1.457,1.457,0,0,1-2.03-.86c-0.34-.7-1.36-4.53-1.63-4.85s-1.07.32-1.07,0.32l-0.39-.51s1.63-1.95,2.88-2.19c1.31-.26,1.31,2.02,1.63,3.28,0.3,1.23.51,1.93,0.78,1.93a3.555,3.555,0,0,0,1.34-1.73c0.56-1.05-.03-1.97-1.12-1.32C1427.15,5181.43,1431.29,5180.8,1430.75,5183.82Z" transform="translate(-1418 -5178)"/>
+</svg>

@@ -1,0 +1,103 @@
+/* axis -regular - latin_cyrillic */
+
+@font-face {
+    font-family: 'Axis';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/axis/axis.woff2') format('woff2'), /* Super Modern Browsers */
+    ;
+    src: url('../fonts/axis/axis.woff') format('woff'), /* Modern Browsers */
+    ;
+    src: url('../fonts/axis/axis.eot') format('embedded-opentype'), /* IE6-IE8 */
+    ;
+    src: url('../fonts/axis/axis.ttf') format('truetype'), /* Safari, Android, iOS */
+    ;
+    src: url('../fonts/axis/axis.svg') format('svg');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Axis';
+    font-style: bold;
+    font-weight: 700;
+    src: url('../fonts/axis/axis.woff2') format('woff2'), /* Super Modern Browsers */
+    ;
+    src: url('../fonts/axis/axis.woff') format('woff'), /* Modern Browsers */
+    ;
+    src: url('../fonts/axis/axis.eot') format('embedded-opentype'), /* IE6-IE8 */
+    ;
+    src: url('../fonts/axis/axis.ttf') format('truetype'), /* Safari, Android, iOS */
+    ;
+    src: url('../fonts/axis/axis.svg') format('svg');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Axis';
+    font-style: bold;
+    font-weight: 900;
+    src: url('../fonts/axis/axis.woff2') format('woff2'), /* Super Modern Browsers */
+    ;
+    src: url('../fonts/axis/axis.woff') format('woff'), /* Modern Browsers */
+    ;
+    src: url('../fonts/axis/axis.eot') format('embedded-opentype'), /* IE6-IE8 */
+    ;
+    src: url('../fonts/axis/axis.ttf') format('truetype'), /* Safari, Android, iOS */
+    ;
+    src: url('../fonts/axis/axis.svg') format('svg');
+    font-display: swap;
+}
+
+
+/* raleway-regular - latin_cyrillic */
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/raleway/raleway-v22-latin_cyrillic-900.woff2');
+    /* IE9 Compat Modes */
+    src: local(''), url('../fonts/raleway/raleway-v22-latin_cyrillic-regular.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/raleway/raleway-v22-latin_cyrillic-regular.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/raleway/raleway-v22-latin_cyrillic-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/raleway/raleway-v22-latin_cyrillic-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/raleway/raleway-v22-latin_cyrillic-regular.svg#Raleway') format('svg');
+    /* Legacy iOS */
+    font-display: swap;
+}
+
+
+/* raleway-700 - latin_cyrillic */
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/raleway/raleway-v22-latin_cyrillic-900.woff2');
+    /* IE9 Compat Modes */
+    src: local(''), url('../fonts/raleway/raleway-v22-latin_cyrillic-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/raleway/raleway-v22-latin_cyrillic-700.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/raleway/raleway-v22-latin_cyrillic-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/raleway/raleway-v22-latin_cyrillic-700.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/raleway/raleway-v22-latin_cyrillic-700.svg#Raleway') format('svg');
+    /* Legacy iOS */
+    font-display: swap;
+}
+
+
+/* raleway-900 - latin_cyrillic */
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 900;
+    src: url('../fonts/raleway/raleway-v22-latin_cyrillic-900.woff2');
+    /* IE9 Compat Modes */
+    src: local(''), url('../fonts/raleway/raleway-v22-latin_cyrillic-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/raleway/raleway-v22-latin_cyrillic-900.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/raleway/raleway-v22-latin_cyrillic-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/raleway/raleway-v22-latin_cyrillic-900.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/raleway/raleway-v22-latin_cyrillic-900.svg#Raleway') format('svg');
+    /* Legacy iOS */
+    font-display: swap;
+}

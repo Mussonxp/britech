@@ -1,0 +1,113 @@
+html,
+body {
+    height: 100%;
+    font-size: 14px;
+    font-family: 'Raleway', sans-serif;
+    line-height: 21px;
+    font-weight: 400;
+    background: var(--bg-global);
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
+
+.main {
+    flex: 1 0 auto;
+}
+
+.footer {
+    flex: 0 0 auto;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+
+/* Buttons */
+
+.btn--red {
+    background: var(--red-color);
+    border: none;
+    border-color: var(--bg-dark);
+    border-radius: 5px;
+    padding: 20px 30px;
+    font-size: 16px;
+    font-weight: 700;
+    margin-right: 15px;
+    cursor: pointer;
+    text-transform: uppercase;
+    color: var(--bg-dark);
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.btn--red:hover {
+    color: var(--white-color);
+    background: var(--green-color);
+}
+
+.btn--white {
+    background: var(--white-color);
+    border: none;
+    border-color: var(--bg-dark);
+    border-radius: 5px;
+    padding: 20px 30px;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+    text-transform: uppercase;
+    color: var(--bg-dark);
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.btn--white:hover {
+    color: var(--white-color);
+    background: var(--green-color);
+}
+
+.btn--green {
+    background: var(--green-color);
+    border: none;
+    border-color: var(--bg-dark);
+    border-radius: 5px;
+    padding: 20px 30px;
+    font-size: 16px;
+    font-weight: 700;
+    margin-right: 15px;
+    cursor: pointer;
+    text-transform: uppercase;
+    color: var(--white-color);
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.btn--green:hover {
+    color: var(--white-color);
+    background: var(--green-color);
+}
+
+.skills__btn--grey {
+    background: var(--bg-dark);
+    border: none;
+    border-color: var(--bg-dark);
+    border-radius: 5px;
+    padding: 20px 30px;
+    margin-top: 50px;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+    text-transform: uppercase;
+    color: var(--white-color);
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.btn--white:hover {
+    color: var(--white-color);
+    background: var(--bg-dark);
+}

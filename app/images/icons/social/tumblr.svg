@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="1351" y="5178" width="16" height="16" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#464646"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="tumblr" class="cls-1" d="M1364,5178h-10a3,3,0,0,0-3,3v10a3,3,0,0,0,3,3h10a3,3,0,0,0,3-3v-10A3,3,0,0,0,1364,5178Zm-2,7.4h-2.4v2.19a4.211,4.211,0,0,0,.05,1.04,0.862,0.862,0,0,0,.37.41,1.336,1.336,0,0,0,.72.19,1.921,1.921,0,0,0,1.26-.38v1.45a5.784,5.784,0,0,1-1.1.38,4.58,4.58,0,0,1-1.08.12,2.982,2.982,0,0,1-1.04-.17,2.642,2.642,0,0,1-.86-0.47,1.649,1.649,0,0,1-.49-0.66,2.622,2.622,0,0,1-.14-1v-3.37H1356v-1.36a3.233,3.233,0,0,0,1.07-.52,2.785,2.785,0,0,0,.65-0.83,3.78,3.78,0,0,0,.33-1.22h1.55v2.4h2.4v1.8Z" transform="translate(-1351 -5178)"/>
+</svg>
