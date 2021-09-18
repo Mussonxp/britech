@@ -550,12 +550,13 @@ Clients Logo Slider
 ===============================*/
 
 .express-info {
+    background: linear-gradient(to right, var(--bg-global) 50%, var(--bg-extra-dark) 50%);
     &__block {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
     }
     &__sect {
-        padding: 50px 40px 40px 0;
+        padding: 50px 40px 0 0;
     }
     &__title {
         font-size: 24px;
@@ -624,6 +625,18 @@ Clients Logo Slider
     &__privacy {
         color: var(--grey-color);
     }
+    &__latest-news {
+        background: var(--bg-dark);
+        padding-left: 25px;
+        color: var(--grey-color);
+    }
+    &__news {
+        display: flex;
+    }
+    &__get-in-touch {
+        background: var(--bg-extra-dark);
+        padding-left: 25px;
+    }
 }
 
 
@@ -632,15 +645,14 @@ Clients Logo Slider
 ===============================*/
 
 .footer {
-    height: 50px;
-    background: var(--bg-dark);
-    margin-top: 50px;
+    background: var(--bg-footer);
+    padding-top: 35px;
+    padding-bottom: 35px;
     &__content {
         display: flex;
         flex-wrap: wrap;
         justify-content: space-between;
         align-items: center;
-        padding-top: 15px;
     }
     &__copyright {
         color: var(--grey-color);
