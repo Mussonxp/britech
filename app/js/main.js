@@ -78,3 +78,9 @@ $(document).ready(function() {
     // One more function
 
 });
+
+var mixer = mixitup('.gallery__inner', {
+    load: {
+        filter: '.living'
+    }
+});
